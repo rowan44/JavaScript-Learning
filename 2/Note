@@ -7,3 +7,18 @@ document.getElementById("mysubmit").onclick = function(){
 }
 
 ##inputID = mytext
+
+##Conversion of data type
+a=12
+b=string(a)
+
+##Constant
+const pi = 3.14159
+let radius;
+let circumference;
+
+radius = window.prompt(`Enter the radius of a circle);
+radius = Number(radius);
+circumference = 2*pi*radius;
+
+console.log(circumference);

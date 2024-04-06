@@ -28,3 +28,6 @@ Math.abs
 Math.sign
 Math.max(x,y,z)
 Math.min(x,y,z)
+
+##Random function
+let randomNum = Math.floor(Math.random()*6);[*6 means 0 - 5]

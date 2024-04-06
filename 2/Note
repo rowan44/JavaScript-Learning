@@ -1,0 +1,7 @@
+<label> - question
+<input> - let user input
+<button> - create a button
+document.getElementById("mysubmit").onclick = function(){
+    username = document.getElementById("mytext").value
+    document.getElementById("myh1").textContent = `Hello ${username}`
+}

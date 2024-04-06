@@ -1,0 +1,6 @@
+Assign - let a
+declare - a = "qw"/12/boolean
+print function - console.log(${a})
+print type of data - typeof
+notification - window.alert()
+user input - window.prompt()
